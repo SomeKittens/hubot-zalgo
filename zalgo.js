@@ -133,7 +133,7 @@ Th͎̯̠͚̥e̜̞͇͔̣ ̼̰͚̱̜̬͡ͅN̢̳̞͔e̴̩̠̖͎̤̬z̧̺̘͎̮̣ṕ
               description : 'H̸̡̪̯ͨ͊̽̅̾̎Ȩ̬̩̾͛ͪ̈́̀́͘ ̶̧̨̱̹̭̯ͧ̾ͬC̷̙̲̝͖ͭ̏ͥͮ͟Oͮ͏̮̪̝͍M̲̖͊̒ͪͩͬ̚̚͜Ȇ̴̟̟͙̞ͩ͌͝S̨̥̫͎̭ͯ̿̔̀ͅ http://stackoverflow.com/a/1732454/1216976'
             }
           )
-    ;var _var;COMPLETEZALGOIFICATION=function(abcdefghijklmnopqurstuvwxyZALGO){abcdefghijklmnopqurstuvwxyZALGO.hear(/zalgo\s(.+)$/i,function(abcdefghijklmnopqurstuvwxyZALGOALGO){abcdefghijklmnopqurstuvwxyZALGOALGO.send(zalgo(abcdefghijklmnopqurstuvwxyZALGOALGO.match[1],abcdefghijklmnopqurstuvwxyZALGOALGO))})}
+    ;var _var;COMPLETEZALGOIFICATION=function(abcdefghijklmnopqurstuvwxyZALGO){abcdefghijklmnopqurstuvwxyZALGO.hear(/zalgo\s(.+)$/i,function(abcdefghijklmnopqurstuvwxyZALGOALGO){abcdefghijklmnopqurstuvwxyZALGOALGO.send("```"+zalgo(abcdefghijklmnopqurstuvwxyZALGOALGO.match[1],abcdefghijklmnopqurstuvwxyZALGOALGO)+"```")})}
     }
     )
     (
